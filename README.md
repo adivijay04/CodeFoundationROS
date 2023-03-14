@@ -3,7 +3,7 @@ This is the Construct sim (formerly known as Robot Ignite Academy) certification
 
 ### Project Status:
 
-${\color{red}Exam Score:}$ ${\color{green}10}$
+${\color{red}Exam Score:}$ ${\color{green}10/10}$
 
 # [The Construct](https://app.theconstructsim.com/)
 $\mathbb{\color{teal}{The \ exam \ is \ conducted \ in \ the \ following \ environment:}}$
