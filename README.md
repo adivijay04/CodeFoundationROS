@@ -1,7 +1,7 @@
 # Code Foundation for ROS Prerequisites Exam key
 This is the Construct sim (formerly known as Robot Ignite Academy) certification exam on "Code Foundation for ROS" 
 
-Project Status:
+### Project Status:
 
 ${\color{red}Exam Score:}$ ${\color{green}10}$
 
